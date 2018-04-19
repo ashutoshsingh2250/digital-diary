@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/registrationPage" android:background="@color/bck_grnd" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/header_registration_page" layout="@layout/header_footer" />
+    <ScrollView android:id="@id/scrol" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="55.0dip" android:layout_below="@id/header_registration_page">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/field1_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="15.0dip" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+                <TextView android:textSize="25.0sp" android:textStyle="bold" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="SIGNUP" android:fontFamily="AvenirNextCondensed" />
+                <EditText android:textSize="17.0sp" android:id="@id/edittext_fname" android:background="@drawable/round_corner_edittext_back" android:paddingLeft="5.0dip" android:paddingTop="2.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:hint="@string/textView_first_name" android:inputType="text" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/field3_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="15.0dip" android:layout_below="@id/field1_text" android:layout_centerHorizontal="true">
+                <EditText android:textSize="17.0sp" android:id="@id/edittext_username" android:background="@drawable/round_corner_edittext_back" android:paddingLeft="5.0dip" android:paddingTop="2.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/textView_login_username" android:inputType="text" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/field4_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="15.0dip" android:layout_below="@id/field3_text" android:layout_centerHorizontal="true">
+                <EditText android:textSize="17.0sp" android:id="@id/edittext_password" android:background="@drawable/round_corner_edittext_back" android:paddingLeft="5.0dip" android:paddingTop="2.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/textView_login_password" android:inputType="text" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/field6_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="15.0dip" android:layout_below="@id/field4_text" android:layout_centerHorizontal="true">
+                <EditText android:textSize="17.0sp" android:id="@id/edittext_security_ques" android:background="@drawable/round_corner_edittext_back" android:paddingLeft="5.0dip" android:paddingTop="2.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="Security Question" android:inputType="text" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/field7_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="15.0dip" android:layout_below="@id/field6_text" android:layout_centerHorizontal="true">
+                <EditText android:textSize="17.0sp" android:id="@id/edittext_security_answer" android:background="@drawable/round_corner_edittext_back" android:paddingLeft="5.0dip" android:paddingTop="2.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="Enter Your Answer" android:inputType="text" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/reg_butn" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="15.0dip" android:layout_below="@id/field7_text" android:layout_centerHorizontal="true">
+                <Button android:textSize="17.0sp" android:textColor="@color/white" android:id="@id/button_submit_registration" android:background="@drawable/greenbutton" android:paddingTop="2.0dip" android:paddingBottom="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/button_register" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <include android:id="@id/footer" android:layout_below="@id/scrol" android:layout_alignParentBottom="true" layout="@layout/footer" />
+</RelativeLayout>

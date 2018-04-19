@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/header_personal" layout="@layout/header_footer" />
+    <include android:id="@id/footer_personal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/footer" />
+    <RelativeLayout android:gravity="center_horizontal" android:id="@id/textview_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/header_personal">
+        <LinearLayout android:gravity="center" android:background="@color/blue" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/imageview_home_update_info" android:layout_width="40.0dip" android:layout_height="30.0dip" />
+            <TextView android:textSize="20.0sp" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:layout_width="200.0dip" android:layout_height="40.0dip" android:layout_marginLeft="20.0dip" android:text="@string/textView_personal_info" />
+            <ImageView android:layout_gravity="center_vertical" android:id="@id/imageview_back_update_info" android:background="@color/blue" android:layout_width="50.0dip" android:layout_height="30.0dip" />
+        </LinearLayout>
+    </RelativeLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/footer_personal" android:layout_below="@id/textview_header">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="left" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginTop="5.0dip">
+                <ImageView android:id="@id/imageView_person" android:layout_width="50.0dip" android:layout_height="50.0dip" android:src="@drawable/blankperson" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginBottom="3.0dip">
+                    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/darkcherryred   " android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:text="@string/textView_personal_info_name" />
+                    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/darkcherryred   " android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:layout_marginTop="15.0dip" android:text="@string/textView_personal_info_address" />
+                    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/darkcherryred   " android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:layout_marginTop="15.0dip" android:text="@string/textView_personal_info_birthday" />
+                    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/darkcherryred   " android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:layout_marginTop="15.0dip" android:text="@string/textView_personal_info_mobile" />
+                    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/darkcherryred   " android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:layout_marginTop="15.0dip" android:text="@string/textView_personal_info_anniversary" />
+                    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/darkcherryred   " android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:layout_marginTop="15.0dip" android:layout_marginRight="20.0dip" android:text="@string/textView_personal_info_email" />
+                    <TextView android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/darkcherryred   " android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="40.0dip" android:layout_marginTop="5.0dip" android:layout_marginRight="20.0dip" android:text="@string/textView_personal_info_age" />
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:layout_width="170.0dip" android:layout_height="wrap_content" android:layout_marginRight="40.0dip">
+                    <EditText android:textSize="15.0sp" android:textStyle="bold" android:id="@id/edittext_name_update_info" android:layout_width="150.0dip" android:layout_height="35.0dip" android:layout_marginLeft="15.0dip" android:hint="@string/textView_personal_info_name" android:imeOptions="actionDone" />
+                    <EditText android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/black" android:id="@id/edittext_address_update_info" android:layout_width="150.0dip" android:layout_height="35.0dip" android:layout_marginLeft="15.0dip" android:hint="@string/textView_personal_info_address" android:imeOptions="actionDone" />
+                    <EditText android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/black" android:id="@id/edittext_birthday_update_info" android:focusable="false" android:layout_width="150.0dip" android:layout_height="35.0dip" android:layout_marginLeft="15.0dip" android:hint="@string/textView_personal_info_birthday" android:imeOptions="actionDone" />
+                    <EditText android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/black" android:id="@id/edittext_mobile_no_update_info" android:layout_width="150.0dip" android:layout_height="35.0dip" android:layout_marginLeft="15.0dip" android:hint="@string/textView_personal_info_mobile" android:maxLength="10" android:numeric="integer" android:inputType="phone" android:imeOptions="actionDone" />
+                    <EditText android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/black" android:id="@id/edittext_aniversary_update_info" android:focusable="false" android:layout_width="150.0dip" android:layout_height="35.0dip" android:layout_marginLeft="15.0dip" android:hint="@string/textView_personal_info_anniversary" android:imeOptions="actionDone" />
+                    <EditText android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/black" android:id="@id/edittext_email_update_info" android:layout_width="150.0dip" android:layout_height="35.0dip" android:layout_marginLeft="15.0dip" android:hint="@string/textView_personal_info_email" android:inputType="textEmailAddress" android:imeOptions="actionDone" />
+                    <EditText android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/black" android:id="@id/edittext_age_update_info" android:layout_width="150.0dip" android:layout_height="35.0dip" android:layout_marginLeft="15.0dip" android:hint="@string/textView_personal_info_age" android:maxLength="2" android:inputType="numberSigned" android:imeOptions="actionDone" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:weightSum="3.0" android:layout_above="@id/footer_personal">
+                <Button android:textSize="15.0sp" android:textStyle="bold" android:textColor="@color/darkcherryred   " android:id="@id/button_person_update_info_save" android:background="@drawable/buttoncolorchanger" android:layout_width="40.0dip" android:layout_height="40.0dip" android:text="@string/textView_personal_info_submit" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

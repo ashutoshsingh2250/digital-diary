@@ -1,0 +1,636 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/layout-small/send_other_info_adapter.xml
+SHA1-Digest: b5lX6X9TcofLRpySR+JlNfhqI4E=
+
+Name: res/layout-small/activity_forgot.xml
+SHA1-Digest: fcYRtbWCEmU3Ofz0kvKgd8/qkEg=
+
+Name: res/layout-small/activity_personal_information.xml
+SHA1-Digest: ndYMnvA3pl0XOSponqWFy2txX8E=
+
+Name: res/drawable/shape.xml
+SHA1-Digest: FEVqOIZaCVb7NJGogj/8fmHazxw=
+
+Name: res/layout-small/activity_view_pager.xml
+SHA1-Digest: dl2jKSwCHPPsGVMsrLKMalnpHSc=
+
+Name: res/layout-small/custom_spinner.xml
+SHA1-Digest: rj4J8+yneZ6PNgY6ci8KKlfF2Jo=
+
+Name: res/layout-xlarge/activity_send_list_view.xml
+SHA1-Digest: R61JjNI+tLTavSV69SfpEjThvZI=
+
+Name: res/drawable/next_button.xml
+SHA1-Digest: Zym9uGZUx1RPWP3J2CcsZc/2GbI=
+
+Name: res/layout-normal/title_send_info.xml
+SHA1-Digest: JU6Mcjod2UAMsBS1LVxfp3osn88=
+
+Name: res/layout-xlarge/activity_other_info.xml
+SHA1-Digest: GUB/xbE2WIUcXJsPAO3BVtfBa9M=
+
+Name: res/layout-xlarge/activity_personal_information.xml
+SHA1-Digest: LOZToqIBDX1PPm8jicY8L/XtcM4=
+
+Name: res/layout-small/activity_show_reminder.xml
+SHA1-Digest: 6j7kfbi2sf/gMD7BZGfR4N8M//k=
+
+Name: jsr305_annotations/v0_r47/V0_r47.gwt.xml
+SHA1-Digest: /f34xYwskAvrKqRB+jFPzJ8rPJg=
+
+Name: res/layout-xlarge/activity_login_page_.xml
+SHA1-Digest: KtAALOEdQo/DUW+0eVHnLlQmy/E=
+
+Name: res/drawable/round_corner_edittext.xml
+SHA1-Digest: iOyjafjhtWJkRNlORxbDeBnTj50=
+
+Name: res/layout-xlarge/activity_person_show.xml
+SHA1-Digest: FRztS9OvzQuQEv5UGDOEyWFQejE=
+
+Name: res/drawable/checkboxselector.xml
+SHA1-Digest: xKSo+taEcELQHJaruL5Mzz64OGM=
+
+Name: res/layout-small/activity_send_account_info.xml
+SHA1-Digest: r+aLpTK4TYMjfVBq1xALX88UQMk=
+
+Name: res/layout-small/activity_bookmark.xml
+SHA1-Digest: 06vyxhxFYbes8PaE3kgM6+e0rIA=
+
+Name: res/drawable/other_background.xml
+SHA1-Digest: kDQUt7dQCIE9LAbewCoZMwV1MT8=
+
+Name: res/drawable/listview_border.xml
+SHA1-Digest: SI6s7pWnR+K6FHDJ8vZiJON3ngs=
+
+Name: res/drawable/header_320_44.png
+SHA1-Digest: jogMcEq936lTxJ7c/+zrFZm9NAk=
+
+Name: res/menu/send_information.xml
+SHA1-Digest: K/YN2HSiIrOCom/49EMPtmTwQHU=
+
+Name: res/layout-small/activity_frnd_list.xml
+SHA1-Digest: aDZgTlE77hlTQNZhA+P0wTvgzn0=
+
+Name: res/layout-small/activity_send_button.xml
+SHA1-Digest: 0XO9nZv4fDsAkZ8NP7khssfjei4=
+
+Name: res/drawable/right_icon.png
+SHA1-Digest: 6PcUcBruEJaWr5KAO3KkOoVKVjE=
+
+Name: res/drawable/friend_bg.png
+SHA1-Digest: tIcNucM6PUWxZaMS24moHTGTFNY=
+
+Name: res/drawable/list_item.xml
+SHA1-Digest: yaPl3VsuAFWZ+HCwI4sq4afNdi4=
+
+Name: res/layout-large/activity_frnd_list.xml
+SHA1-Digest: KHSSq4XLIqYr5xM/sbQQymmfnQs=
+
+Name: res/menu/activity_send_button.xml
+SHA1-Digest: U417GVsoyA6mMENS4Ru2S73osDU=
+
+Name: res/layout-xlarge/footer.xml
+SHA1-Digest: fdh1H2G0TbT7qaMgQ0rHKCxXh3Y=
+
+Name: res/layout-xlarge/send_other_info_adapter.xml
+SHA1-Digest: yN/juXY0mN7eRCJxi9SXoiyn8iA=
+
+Name: res/layout-xlarge/custom_spinner.xml
+SHA1-Digest: rj4J8+yneZ6PNgY6ci8KKlfF2Jo=
+
+Name: res/layout-normal/checkbox1.xml
+SHA1-Digest: qVcFr09Z8GiNESra4XOkVh7w0d8=
+
+Name: res/drawable/roundedlistview..xml
+SHA1-Digest: W7pqilepoWe+xhtvxi3b0LiMONY=
+
+Name: res/drawable/frnd_background.xml
+SHA1-Digest: W46iToZaGvC9i+b6s0I1W2iPAsI=
+
+Name: res/anim/layout_animation_row_left_slide.xml
+SHA1-Digest: 9xYBjyl/9ZxPQ4V94sV5ouWna5c=
+
+Name: res/layout-normal/activity_bookmark.xml
+SHA1-Digest: qyYf5YnPGrCtq259m7RbYoNwsB4=
+
+Name: res/layout-small/activity_login_page_.xml
+SHA1-Digest: Po6RJtf5tpOYwT0igcCwTOCJid4=
+
+Name: res/drawable/greenbutton.xml
+SHA1-Digest: bAb3D01hIQLM0lFMLZrM40VYDbQ=
+
+Name: res/layout-large/sendfriendinfoadapter.xml
+SHA1-Digest: KqoovDEMO9qvzOPDgq3jbU3Jm98=
+
+Name: res/layout-normal/custom_adapter.xml
+SHA1-Digest: QKPmvbU57lM1VlQCHGRbXsIZCj0=
+
+Name: res/layout-xlarge/header_footer.xml
+SHA1-Digest: kBhJRjlsENB6krQjZwE9UIOORI8=
+
+Name: res/layout-large/activity_forgot.xml
+SHA1-Digest: J+OhfFMGtt4DEW5tpNGdymz2xCs=
+
+Name: res/layout-xlarge/activity_home_page.xml
+SHA1-Digest: jN+Vafi1Kf1HkiPvi0E+u82qQTI=
+
+Name: res/drawable/header_bck_grnd.xml
+SHA1-Digest: 1edId9QsbX+zN3//LiMDUIEkLEs=
+
+Name: res/layout-large/activity_rem_show_info.xml
+SHA1-Digest: qZRgiQNMp93cTg6Bwq0JjL4bfLA=
+
+Name: res/layout-normal/activity_frnd_list.xml
+SHA1-Digest: HZMo7LporIaUBLFfVYVbV+xtwtg=
+
+Name: res/layout-small/activity_ragistration__page.xml
+SHA1-Digest: Iq6fQnKXBYKWr250imi3u2VBxJw=
+
+Name: res/drawable/dashed_line.xml
+SHA1-Digest: A7+TOJG1ZW5RjzZs9bwT2yvLzIA=
+
+Name: res/layout-large/footer.xml
+SHA1-Digest: fdh1H2G0TbT7qaMgQ0rHKCxXh3Y=
+
+Name: res/drawable/home_button.xml
+SHA1-Digest: 95I2pEUhC2R3kFAQptrPKJDknN8=
+
+Name: res/layout-large/title_send_info.xml
+SHA1-Digest: JU6Mcjod2UAMsBS1LVxfp3osn88=
+
+Name: res/layout-large/send_adapter.xml
+SHA1-Digest: JKl6/95m0GCQjaoDKOJipUTXkjQ=
+
+Name: res/layout-xlarge/activity_other_listview_info.xml
+SHA1-Digest: A2e7waJA9tfjMZcS9j1hLMKLogo=
+
+Name: res/layout-xlarge/activity_reminder_info.xml
+SHA1-Digest: u4ihIpF3UXTb0SZp9zzlrx9tu6E=
+
+Name: res/layout-small/header_footer.xml
+SHA1-Digest: kBhJRjlsENB6krQjZwE9UIOORI8=
+
+Name: res/layout-normal/activity_other_listview_info.xml
+SHA1-Digest: eSS9Nr211x0LYt8sFK+ZP3r47s0=
+
+Name: res/drawable/layer2.xml
+SHA1-Digest: LK9Z1yGPnY3ZmhEOK7zShWcAx1k=
+
+Name: res/layout-xlarge/title_send_info.xml
+SHA1-Digest: JU6Mcjod2UAMsBS1LVxfp3osn88=
+
+Name: res/anim/layout_animation_row_left_from_right_side.xml
+SHA1-Digest: OZKONuYgR7gSZa5W1Gl74qFg87c=
+
+Name: res/menu/update_account_info.xml
+SHA1-Digest: K/YN2HSiIrOCom/49EMPtmTwQHU=
+
+Name: res/layout-normal/activity_person_show.xml
+SHA1-Digest: oHGzMZbgGCK1GYwZAdTZqHE+noM=
+
+Name: res/layout-large/listview_footer.xml
+SHA1-Digest: 9+aaccRmbDxAAEN2S5b+sOCt2pg=
+
+Name: res/layout-large/activity_view_pager.xml
+SHA1-Digest: dl2jKSwCHPPsGVMsrLKMalnpHSc=
+
+Name: res/layout-normal/activity_send_list_view.xml
+SHA1-Digest: R61JjNI+tLTavSV69SfpEjThvZI=
+
+Name: res/drawable/other_info_icon.png
+SHA1-Digest: 6HH/xOPM29vkQ+TXPoNEwqm4IWo=
+
+Name: res/drawable/send_email.png
+SHA1-Digest: ksUfobQnbjzQVVHtjAt8pfGmmjY=
+
+Name: res/drawable/logo_diary_icon.png
+SHA1-Digest: qEhShknZERwVPamSD3MhXpq/vXk=
+
+Name: res/layout-normal/sendfriendinfoadapter.xml
+SHA1-Digest: N1qqtdit9TuC5iR+UCg9ce8nGWo=
+
+Name: res/drawable/time_clock.png
+SHA1-Digest: rGSk/3IiNzmrSRX+UxI6LCky1+w=
+
+Name: res/layout-large/activity_title_bookmark.xml
+SHA1-Digest: MHuVA9g94Wkbh1ehQePN3FfUF+s=
+
+Name: res/layout-normal/activity_send_account_info.xml
+SHA1-Digest: qs9UnyKGQj/bua/xejSZ3MyncEw=
+
+Name: res/layout-small/activity_other_info.xml
+SHA1-Digest: VC6yBIxkKaomhMzx6hYxnvxMOZQ=
+
+Name: res/layout-large/activity_reminder_info.xml
+SHA1-Digest: x5iSywb4gQ8fMpL13e+1gb/de88=
+
+Name: res/drawable/back_icon.png
+SHA1-Digest: BuVlYgTMdd/BWPmsQRoI72WsZOE=
+
+Name: res/layout-small/activity_home_page.xml
+SHA1-Digest: mJ7sWs3ZZQbogKukRD8mZlBEr68=
+
+Name: res/drawable/reminder_background.xml
+SHA1-Digest: i+S6K0Xs3AtM7pJd0NZzHfU205g=
+
+Name: res/layout-large/activity_update_person.xml
+SHA1-Digest: EIN6WnMaEaSTzVl1srpZDO1aAaE=
+
+Name: res/layout-small/footer.xml
+SHA1-Digest: fdh1H2G0TbT7qaMgQ0rHKCxXh3Y=
+
+Name: res/anim/layout_animation_row_right_from_left_side.xml
+SHA1-Digest: /n/03M5rj2RMQAW7TUeyYofuU/E=
+
+Name: res/layout-xlarge/activity_show_reminder.xml
+SHA1-Digest: GX1JjYDlOJpxtgrFfmQV6d5+8fY=
+
+Name: res/layout-xlarge/activity_forgot.xml
+SHA1-Digest: 45elp2ehL3Nx2UbTRKBo6W/7bd8=
+
+Name: res/layout-small/activity_bookmark_show.xml
+SHA1-Digest: C7hyyHKRQaGvG7zwfhg8JK4mzWc=
+
+Name: res/menu/forgot.xml
+SHA1-Digest: K/YN2HSiIrOCom/49EMPtmTwQHU=
+
+Name: res/layout-large/custom_adapter.xml
+SHA1-Digest: QKPmvbU57lM1VlQCHGRbXsIZCj0=
+
+Name: res/layout-normal/custom_spinner.xml
+SHA1-Digest: rj4J8+yneZ6PNgY6ci8KKlfF2Jo=
+
+Name: res/layout-large/activity_send_list_view.xml
+SHA1-Digest: R61JjNI+tLTavSV69SfpEjThvZI=
+
+Name: res/drawable/imageview_shape.xml
+SHA1-Digest: /8xvcYKGlZ+2i6gK2mFmfpvyHPs=
+
+Name: res/drawable/home_icon.png
+SHA1-Digest: GNnt1VI9q6EF0dJtU04uLvbSJuw=
+
+Name: res/layout-small/activity_update_person.xml
+SHA1-Digest: EIN6WnMaEaSTzVl1srpZDO1aAaE=
+
+Name: res/drawable/bank_background.xml
+SHA1-Digest: Ckd7WzC0JvXOatuS+J3wR+h3E7s=
+
+Name: res/layout-large/activity_personal_information.xml
+SHA1-Digest: bcTpC10t/e25InAyAZvVmKh/9no=
+
+Name: res/layout-large/activity_other_info_show.xml
+SHA1-Digest: yvcQfeuRudgLbD7WkuCzYfC8CRE=
+
+Name: res/layout-normal/listview_footer.xml
+SHA1-Digest: 9+aaccRmbDxAAEN2S5b+sOCt2pg=
+
+Name: res/layout-small/custom_adapter.xml
+SHA1-Digest: QKPmvbU57lM1VlQCHGRbXsIZCj0=
+
+Name: res/drawable/logobackground.xml
+SHA1-Digest: S6F+iEVpHD0RoDoV6j+4M4YUygg=
+
+Name: res/drawable/home_screen_480x800.jpg
+SHA1-Digest: iLHM4X6gV7/y1J0iR5ih7/SxpYw=
+
+Name: res/layout-normal/activity_ragistration__page.xml
+SHA1-Digest: R9u9VLyaVeDGeM7t4lgemM8jKPE=
+
+Name: res/drawable/orangebutton.xml
+SHA1-Digest: E4NK+SKxUJd4IVrQz8Gkewib88o=
+
+Name: res/layout-small/send_adapter.xml
+SHA1-Digest: YVaatL/9IgFltRI2YHhXa8sVkN0=
+
+Name: res/layout-large/checkbox1.xml
+SHA1-Digest: qVcFr09Z8GiNESra4XOkVh7w0d8=
+
+Name: res/drawable/delete_icon.png
+SHA1-Digest: cSZ0L2PYt/QWgTXgfc1IWVdUSxI=
+
+Name: res/layout-normal/activity_update_person.xml
+SHA1-Digest: EIN6WnMaEaSTzVl1srpZDO1aAaE=
+
+Name: res/layout-large/activity_splash_screen.xml
+SHA1-Digest: y4O3RXB7PpFMIFe5tyvJH8LLFG4=
+
+Name: res/anim/slide_down_from_top.xml
+SHA1-Digest: QI1JosuFOR5fSpit3euKyc/1V10=
+
+Name: res/layout-xlarge/activity_send_other_info.xml
+SHA1-Digest: bBd+mnUdrtOhYbKf5mPF5SPJ1+4=
+
+Name: res/layout-large/activity_send_information.xml
+SHA1-Digest: SQbvaCj4nj6/PmJjtrzFP3cxCJw=
+
+Name: res/layout-normal/activity_login_page_.xml
+SHA1-Digest: mVZBzkH1PDuSnFw43SQgUHLLlms=
+
+Name: res/layout-xlarge/activity_frnd_list.xml
+SHA1-Digest: KHSSq4XLIqYr5xM/sbQQymmfnQs=
+
+Name: res/layout-xlarge/checkbox1.xml
+SHA1-Digest: qVcFr09Z8GiNESra4XOkVh7w0d8=
+
+Name: res/layout-large/activity_other_info.xml
+SHA1-Digest: SRiTG4oZuddKJkc98Aemu/jHiL8=
+
+Name: res/drawable/textcolorchange.xml
+SHA1-Digest: InDAu2fKeKPqEdOY7xpI5LDYbEY=
+
+Name: res/layout-normal/footer.xml
+SHA1-Digest: fdh1H2G0TbT7qaMgQ0rHKCxXh3Y=
+
+Name: res/layout-xlarge/custom_adapter.xml
+SHA1-Digest: QKPmvbU57lM1VlQCHGRbXsIZCj0=
+
+Name: res/drawable/blankperson.jpg
+SHA1-Digest: YBicoJyZzcclDZ1zcsvVOJ0rwvI=
+
+Name: res/layout-normal/activity_send_other_info.xml
+SHA1-Digest: bBd+mnUdrtOhYbKf5mPF5SPJ1+4=
+
+Name: res/layout-small/activity_rem_show_info.xml
+SHA1-Digest: RyG8A37anD1etVnTsIxVZgJISs4=
+
+Name: res/layout-large/activity_send_account_info.xml
+SHA1-Digest: qs9UnyKGQj/bua/xejSZ3MyncEw=
+
+Name: res/layout-normal/activity_title_bookmark.xml
+SHA1-Digest: Ubi/VsZ//21AbByoOtLg9Mc300Y=
+
+Name: res/layout-large/header_footer.xml
+SHA1-Digest: kBhJRjlsENB6krQjZwE9UIOORI8=
+
+Name: res/layout-normal/activity_rem_show_info.xml
+SHA1-Digest: wX5TZ03riPDZ6c+pYd/8pcgM4XA=
+
+Name: res/layout-xlarge/activity_send_account_info.xml
+SHA1-Digest: qs9UnyKGQj/bua/xejSZ3MyncEw=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: qEhShknZERwVPamSD3MhXpq/vXk=
+
+Name: res/layout-large/activity_ragistration__page.xml
+SHA1-Digest: orr2WcLr0bt7FV7XXv5YgBSdGNY=
+
+Name: res/drawable/round_corner_edittext_back.xml
+SHA1-Digest: z063DJCVhylNLyNu8lbKmAYAIVY=
+
+Name: res/drawable/edit_icon.png
+SHA1-Digest: 7ibZwYGNZsTfLGBFufVVMAOFo+4=
+
+Name: resources.arsc
+SHA1-Digest: C3/etNzDAq9HiuZl4H5bgaXMtY8=
+
+Name: res/drawable/buttoncolorchanger.xml
+SHA1-Digest: DyWeW5Jy9BIcUhtyIFBbstKrI6Y=
+
+Name: res/menu/update_other_information.xml
+SHA1-Digest: K/YN2HSiIrOCom/49EMPtmTwQHU=
+
+Name: res/layout-xlarge/activity_splash_screen.xml
+SHA1-Digest: y4O3RXB7PpFMIFe5tyvJH8LLFG4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: I9B8PLmycC5UplVuGOsq89Aqc9g=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: qEhShknZERwVPamSD3MhXpq/vXk=
+
+Name: res/drawable/cool_button_background.xml
+SHA1-Digest: yQGAir6oR2h2EvBnaWg4YILDaxo=
+
+Name: res/layout-small/title_send_info.xml
+SHA1-Digest: JU6Mcjod2UAMsBS1LVxfp3osn88=
+
+Name: res/layout-normal/send_other_info_adapter.xml
+SHA1-Digest: i1dyND8fWT7XtNbZBYXnW6ZDRFA=
+
+Name: res/layout-xlarge/activity_send_information.xml
+SHA1-Digest: SQbvaCj4nj6/PmJjtrzFP3cxCJw=
+
+Name: res/drawable/header.xml
+SHA1-Digest: F87ARyY2ImTWk690UHQno59njsI=
+
+Name: res/layout-xlarge/sendfriendinfoadapter.xml
+SHA1-Digest: ThaYOllft9YJPMh/QcYljEHe1rk=
+
+Name: res/layout-large/activity_other_listview_info.xml
+SHA1-Digest: eSS9Nr211x0LYt8sFK+ZP3r47s0=
+
+Name: res/layout-xlarge/activity_view_pager.xml
+SHA1-Digest: dl2jKSwCHPPsGVMsrLKMalnpHSc=
+
+Name: res/layout-large/send_other_info_adapter.xml
+SHA1-Digest: Imar9x9Kq7eKAL83h5cvl0c0LVA=
+
+Name: res/layout-normal/activity_view_pager.xml
+SHA1-Digest: dl2jKSwCHPPsGVMsrLKMalnpHSc=
+
+Name: res/layout-small/sendfriendinfoadapter.xml
+SHA1-Digest: GuuROQ88GknS5rFVoM1C82XJVEM=
+
+Name: classes.dex
+SHA1-Digest: rTHddauh1a4AHR0YtUTUlBOazPc=
+
+Name: res/layout-xlarge/send_adapter.xml
+SHA1-Digest: HfeIB+AoAuWS17UpL8BhORJIrs4=
+
+Name: res/layout-xlarge/activity_other_info_show.xml
+SHA1-Digest: 8cr43+R1a4lJMHezTzpFmIBU+HY=
+
+Name: res/drawable/bank_bg.png
+SHA1-Digest: yNK3RWUejsqfrsA+K7rp3D0ZFsg=
+
+Name: res/drawable/header_back_tile.png
+SHA1-Digest: Xh5AabM0sSiBsKH2/yKu/tzwmPU=
+
+Name: res/layout-xlarge/activity_update_person.xml
+SHA1-Digest: EIN6WnMaEaSTzVl1srpZDO1aAaE=
+
+Name: res/anim/slide_up.xml
+SHA1-Digest: 9+LVUuRTJMfXBOJb7hMEVczaXqo=
+
+Name: res/drawable/edittext_background.xml
+SHA1-Digest: fSOunZwBQtBg3on4ipzKpU+Fwe8=
+
+Name: res/layout-normal/activity_bookmark_show.xml
+SHA1-Digest: C7hyyHKRQaGvG7zwfhg8JK4mzWc=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: qEhShknZERwVPamSD3MhXpq/vXk=
+
+Name: res/layout-xlarge/activity_rem_show_info.xml
+SHA1-Digest: 6Uatblj0U3pS6CjrRHWffijKpgI=
+
+Name: res/layout-xlarge/activity_bookmark.xml
+SHA1-Digest: z2nFKnK90zP1LYkR8xP9PQJ9nbw=
+
+Name: res/anim/layout_animation_row_right_slide.xml
+SHA1-Digest: v4r4ZEQz5PWIQUAE9morzH7RVQI=
+
+Name: res/layout-large/activity_person_show.xml
+SHA1-Digest: zXwQ/n9NM2U865bjUFN2MrZ0Cfs=
+
+Name: res/layout-small/activity_send_list_view.xml
+SHA1-Digest: R61JjNI+tLTavSV69SfpEjThvZI=
+
+Name: res/layout-small/activity_splash_screen.xml
+SHA1-Digest: y4O3RXB7PpFMIFe5tyvJH8LLFG4=
+
+Name: res/menu/activity_send_account_info.xml
+SHA1-Digest: U417GVsoyA6mMENS4Ru2S73osDU=
+
+Name: res/menu/activity_send_other_info.xml
+SHA1-Digest: U417GVsoyA6mMENS4Ru2S73osDU=
+
+Name: res/drawable/disablebutton.xml
+SHA1-Digest: O48lr2Hwxb7MFvWyMyEi0y2V0Ac=
+
+Name: res/layout-small/activity_reminder_info.xml
+SHA1-Digest: BW+2yJy8t/Mhm3mpDE5lsbquehE=
+
+Name: res/layout-normal/activity_splash_screen.xml
+SHA1-Digest: y4O3RXB7PpFMIFe5tyvJH8LLFG4=
+
+Name: res/layout-xlarge/activity_ragistration__page.xml
+SHA1-Digest: orr2WcLr0bt7FV7XXv5YgBSdGNY=
+
+Name: res/layout-large/activity_home_page.xml
+SHA1-Digest: jN+Vafi1Kf1HkiPvi0E+u82qQTI=
+
+Name: res/drawable/calender.png
+SHA1-Digest: JDFA81ldHr4b40HUGLT2L7xAe9I=
+
+Name: res/layout-normal/activity_send_information.xml
+SHA1-Digest: SQbvaCj4nj6/PmJjtrzFP3cxCJw=
+
+Name: res/layout-normal/send_adapter.xml
+SHA1-Digest: U+R7oGCP+MaQXB6wY6H6p26IEJ4=
+
+Name: res/layout-xlarge/activity_send_button.xml
+SHA1-Digest: dq24LBl54H6ZM1em/ZWEHqYfTPQ=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: UBXHoAGmseBGDwjR6/MFHfcIK7g=
+
+Name: res/layout-small/checkbox1.xml
+SHA1-Digest: qVcFr09Z8GiNESra4XOkVh7w0d8=
+
+Name: res/menu/update_reminder.xml
+SHA1-Digest: K/YN2HSiIrOCom/49EMPtmTwQHU=
+
+Name: res/menu/change_password.xml
+SHA1-Digest: K/YN2HSiIrOCom/49EMPtmTwQHU=
+
+Name: res/layout-normal/activity_home_page.xml
+SHA1-Digest: I2OviVqqMo0c2li9lgfEXfPGwv0=
+
+Name: res/layout-normal/activity_other_info.xml
+SHA1-Digest: u6Nkh+dbFgaJ5DZrOpI/7b5L6Zo=
+
+Name: res/drawable/send_background.xml
+SHA1-Digest: AjgaPnAwaY5ASj2iKkx0YP4RwyY=
+
+Name: res/drawable/check_box_icon.png
+SHA1-Digest: PlP+jFfIRMgq6SA9AcKT94OTEVY=
+
+Name: res/layout-normal/activity_other_info_show.xml
+SHA1-Digest: LlQbzaepDC6igu6wtw1xCzt4GOQ=
+
+Name: res/layout-large/activity_show_reminder.xml
+SHA1-Digest: ux74cI920jxJG0Nrhfrz9ai7iFE=
+
+Name: res/layout-small/activity_other_info_show.xml
+SHA1-Digest: J17lP9qksSV47q3t951HKiYxNb0=
+
+Name: res/layout-small/activity_other_listview_info.xml
+SHA1-Digest: bHOic6rV8kZ1YVOCsEwezOrifm4=
+
+Name: res/drawable/search_icon.png
+SHA1-Digest: 1RCDSq2rH8OscoyjOARBzHkDEPU=
+
+Name: res/layout-small/activity_person_show.xml
+SHA1-Digest: VJluF9xBaeh1lD962ykyrsRHOF4=
+
+Name: res/layout-large/activity_bookmark.xml
+SHA1-Digest: z2nFKnK90zP1LYkR8xP9PQJ9nbw=
+
+Name: res/drawable/view_more_icon.png
+SHA1-Digest: HR0IxHp2Jn9iIzZqrfWZL6Per68=
+
+Name: res/layout-normal/activity_send_button.xml
+SHA1-Digest: RecfNHrNLbn+j0DT0Wo5NDiADIY=
+
+Name: res/layout-normal/header_footer.xml
+SHA1-Digest: kBhJRjlsENB6krQjZwE9UIOORI8=
+
+Name: res/drawable/send_ingo_icon.png
+SHA1-Digest: lHRaAHr0YF3XKEMTNC7kmcEzlwc=
+
+Name: res/layout-small/activity_send_information.xml
+SHA1-Digest: SQbvaCj4nj6/PmJjtrzFP3cxCJw=
+
+Name: res/drawable/reminder_icon.png
+SHA1-Digest: hWc9+ctx16hJmM+ipVM83tYLoiU=
+
+Name: res/drawable/back_icon1.png
+SHA1-Digest: icMhqzxQOzjTr1aTozn9awAPbaI=
+
+Name: res/layout-large/activity_send_other_info.xml
+SHA1-Digest: bBd+mnUdrtOhYbKf5mPF5SPJ1+4=
+
+Name: res/layout-normal/activity_forgot.xml
+SHA1-Digest: IaeRuY38XiRUAsSsYiSebzFBWew=
+
+Name: res/drawable/button_list.xml
+SHA1-Digest: PYJc/wfkBLha13ZMrKfKgX1Irco=
+
+Name: res/layout-normal/activity_reminder_info.xml
+SHA1-Digest: Ery+Fu7c8ELAG4TG1IkaLDGVkwk=
+
+Name: res/layout-xlarge/activity_title_bookmark.xml
+SHA1-Digest: Ubi/VsZ//21AbByoOtLg9Mc300Y=
+
+Name: res/layout-large/custom_spinner.xml
+SHA1-Digest: rj4J8+yneZ6PNgY6ci8KKlfF2Jo=
+
+Name: res/layout-small/listview_footer.xml
+SHA1-Digest: 9+aaccRmbDxAAEN2S5b+sOCt2pg=
+
+Name: res/layout-small/activity_title_bookmark.xml
+SHA1-Digest: 5WgyG3RVGLXE7WRKoxq487jI+mg=
+
+Name: res/layout-xlarge/listview_footer.xml
+SHA1-Digest: 9+aaccRmbDxAAEN2S5b+sOCt2pg=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: wEsZ91pEPn3aQBoxtw/NLpXgTZ4=
+
+Name: res/drawable/border_listview.xml
+SHA1-Digest: sNsT/urNRmm7spCZLj324l8Ojh0=
+
+Name: res/layout-small/activity_send_other_info.xml
+SHA1-Digest: bBd+mnUdrtOhYbKf5mPF5SPJ1+4=
+
+Name: res/layout-xlarge/activity_bookmark_show.xml
+SHA1-Digest: r2mB02NJ2J7CYX3eX8hDW1klPgQ=
+
+Name: res/layout-normal/activity_personal_information.xml
+SHA1-Digest: syk7NNomX3AMw0Euc5is7fKTht8=
+
+Name: res/layout-normal/activity_show_reminder.xml
+SHA1-Digest: ux74cI920jxJG0Nrhfrz9ai7iFE=
+
+Name: res/layout-large/activity_bookmark_show.xml
+SHA1-Digest: 8VV0SsUO6d03Qs+n83U720h/urk=
+
+Name: res/layout-large/activity_send_button.xml
+SHA1-Digest: RecfNHrNLbn+j0DT0Wo5NDiADIY=
+
+Name: res/layout-large/activity_login_page_.xml
+SHA1-Digest: KtAALOEdQo/DUW+0eVHnLlQmy/E=
+

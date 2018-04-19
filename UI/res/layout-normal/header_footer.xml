@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/header_img" android:background="@drawable/header_bck_grnd" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/linear_layout_img_bck" android:background="@drawable/logobackground" android:layout_width="50.0dip" android:layout_height="40.0dip" android:layout_margin="5.0dip">
+        <ImageView android:id="@id/img_bck" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/back_icon" />
+        <ImageView android:id="@id/img_logo" android:layout_width="30.0dip" android:layout_height="35.0dip" android:layout_margin="5.0dip" android:src="@drawable/logo_diary_icon" android:contentDescription="@string/app_name" />
+    </LinearLayout>
+    <TextView android:textSize="17.0sp" android:textStyle="bold" android:textColor="@color/White" android:id="@id/header_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:fontFamily="AvenirNextCondensed" />
+    <LinearLayout android:gravity="center_vertical" android:id="@id/linear_layout_img_home" android:layout_width="30.0dip" android:layout_height="40.0dip" android:layout_margin="5.0dip" android:layout_alignParentRight="true">
+        <ImageView android:id="@id/img_home" android:background="@drawable/logobackground" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/home_icon" />
+    </LinearLayout>
+</RelativeLayout>
